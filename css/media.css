@@ -57,11 +57,11 @@
     .first-box {
         flex-wrap: wrap;
     }
-    .header-btn, .trsprnt:hover {
+    .header-btn + .trsprnt:hover {
         background-color: #00897b;
         border-color: transparent;
     }
-    .header-btn, .green:hover {
+    .header-btn + .green:hover {
         border: 2px solid;
         background-color: transparent;
     }
