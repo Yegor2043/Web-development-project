@@ -57,4 +57,12 @@
     .first-box {
         flex-wrap: wrap;
     }
+    .trsprnt:hover {
+        background-color: #00897b;
+        border-color: transparent;
+    }
+    .green:hover {
+        border: 2px solid;
+        background-color: transparent;
+    }
 }
